@@ -22,4 +22,4 @@ def perebor(N):
 
 print("Функционал реализован")
 print("Thats my result in today")
-
+print("Отложенные изменения")

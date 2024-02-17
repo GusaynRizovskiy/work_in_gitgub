@@ -8,6 +8,9 @@ def mines(a,b):
 def mnog(a,b):
     return a*b
 def dell_of_three_digit(a,b,c):
+    return new_func(a, b, c)
+
+def new_func(a, b, c):
     return (a/b)/c
 """
 Реализовали функции сложения, вычитания, умножения, деления

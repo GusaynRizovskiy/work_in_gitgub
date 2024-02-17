@@ -7,8 +7,8 @@ def mines(a,b):
     return a-b
 def mnog(a,b):
     return a*b
-def dell(a,b):
-    return a/b
+def dell_of_three_digit(a,b,c):
+    return (a/b)/c
 """
 Реализовали функции сложения, вычитания, умножения, деления
 """

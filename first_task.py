@@ -20,4 +20,8 @@ def perebor(N):
     for i in range(N):
         return i
 
+<<<<<<< HEAD
 print("Функционал реализован")
+=======
+print("Thats my result in today")
+>>>>>>> 990e86334641584328ad995a6f835a15481b441c

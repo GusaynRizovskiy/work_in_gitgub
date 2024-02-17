@@ -3,10 +3,10 @@
 """
 def sum(a,b):
     return a+b
-def mines(a,b):
-    return a-b
-def mnog(a,b):
-    return a*b
+def mines(a,b,c):
+    return a-b-c
+def mnog(a,b,c,d):
+    return a*b*c*d
 def dell_of_three_digit(a,b,c):
     return new_func(a, b, c)
 

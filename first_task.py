@@ -28,6 +28,6 @@ for i in range(1,100):
         print(i)
 print("Функционал реализован")
 print("Thats my result in today")
-print("add new something")
+
 
 

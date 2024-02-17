@@ -29,7 +29,5 @@ for i in range(1,100):
 print("Функционал реализован")
 print("Thats my result in today")
 
-print("Функционал реализован")
-print("Thats my result in today")
-print("Отложенные изменения")
+
 

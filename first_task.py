@@ -19,3 +19,5 @@ def new_func(a, b, c):
 def perebor(N):
     for i in range(N):
         return i
+
+print("Функционал реализован")

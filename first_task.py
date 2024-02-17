@@ -12,6 +12,10 @@ def dell_of_three_digit(a,b,c):
 
 def new_func(a, b, c):
     return (a/b)/c
+"""Решаем вторую задачу"""
+for i in range(1,1000):
+    if i%4==0 and i%9==0:
+        print(i)
 """
 Реализовали функции сложения, вычитания, умножения, деления
 """
